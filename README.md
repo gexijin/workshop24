@@ -6,7 +6,7 @@ Feb 6, 2024 at the SDSU Data Science Symposium
 
 1.  Install a recent version of [R](https://www.r-project.org/) at least **R 4.20**. 
 2.  Update [RStudio](https://posit.co/download/rstudio-desktop/) to the most recent version (V. 2023.12.1+402).  Or, use [Posit Cloud](https://posit.cloud/).
-3.  Create a [ChatGPT account](https://chat.openai.com/).
+3.  Create a [ChatGPT account](https://chat.openai.com/), either free or premium. 
 4.  Optional but highly encouraged: Create a **GitHub Copilot** account. On its [website](https://github.com/features/copilot/), click on **Get Started with Copilot** and select an individual plan or use the free trial. If you do not have a **GitHub account**, create one first.
 5. Optional: Install [VS Code](https://code.visualstudio.com/), an advanced development environment. And [configure](https://code.visualstudio.com/docs/languages/r) to run R. 
 
