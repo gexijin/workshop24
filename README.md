@@ -1,7 +1,7 @@
-Coding with ChatGPT workshop
+#Coding with ChatGPT workshop at SDSU
 
 
-# Getting Ready
+## Getting Ready
 
 1.	Make sure you have a recent version of R. At least 4.20. If unsure, install the most recent version. https://www.r-project.org/ 
 2.	Update RStudio to the most recent version (V. 2023.12.1+402). https://posit.co/download/rstudio-desktop/
