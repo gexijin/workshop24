@@ -1,4 +1,5 @@
-#Coding with ChatGPT workshop at SDSU
+# Coding with ChatGPT workshop at SDSU  
+Feb 6, 2024 at the SDSU Data Science Symposium
 
 
 ## Getting Ready
