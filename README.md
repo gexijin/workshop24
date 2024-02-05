@@ -14,6 +14,7 @@ If you prefer to use Python:
 1.  Install Python on your laptop.
 2.  Install an IDE like [VS Code](https://code.visualstudio.com/).
 3.  Install the Python extension on VS Code.
+4.  Enable GitHub Copilot and GitHub Copilot Chat by [installing extensions](https://code.visualstudio.com/docs/editor/github-copilot) and configure it. 
 
 ## Websites
 1. [ChatGPT](https://chat.openai.com/)
